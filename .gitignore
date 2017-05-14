@@ -8,9 +8,11 @@ settings.py
 # C extensions
 *.so
 
+.idea
+
 # Distribution / packaging
 .Python
-venv/
+venv/*
 build/
 develop-eggs/
 dist/
